@@ -62,17 +62,7 @@ Edit
 http://localhost:3000
 To test multiplayer, open another tab or browser window.
 
-📁 Folder Structure
-php
-Copy
-Edit
-typing-game/
-├── public/         # HTML, CSS, client-side JS
-├── server.js       # Main server file (Node.js + Socket.io)
-├── package.json    # Project metadata and dependencies
-💻 Technologies Used
-Node.js – JavaScript runtime
-
+ 
 Express – Server framework
 
 Socket.io – Real-time communication
